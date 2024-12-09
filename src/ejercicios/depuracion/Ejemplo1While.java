@@ -18,7 +18,7 @@ public class Ejemplo1While {
     private int suma, num;
     public Ejemplo1While() {
     	this.suma = 0;
-    	this.num = 0;
+    	this.contador = 0;
     }
 }
 
